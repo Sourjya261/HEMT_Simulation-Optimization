@@ -1,5 +1,7 @@
 # HEMT_Simulation-Optimization
-This is a repository for my b tech final year project
+This is a repository for my B-Tech final year project
+
+
 **Abstract**
 
 This report offers an extensive exploration of High Electron Mobility Transistors (HEMTs) with a
