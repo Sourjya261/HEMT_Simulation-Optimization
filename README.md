@@ -29,5 +29,9 @@ Need to develop GUI now and incorporate Greens quation to incorporate quantum ef
 ![image](https://github.com/Sourjya261/HEMT_Simulation-Optimization/assets/89221563/321ec771-daaa-4db6-89e8-f4e6a0aec561)
 ![image](https://github.com/Sourjya261/HEMT_Simulation-Optimization/assets/89221563/fe5392e1-0a64-4d37-9ff6-7dcc6546f0f1)
 
+Here is the algorithm Im using:
+
+![image](https://github.com/Sourjya261/HEMT_Simulation-Optimization/assets/89221563/a5294bc1-66f8-4f46-ae6c-3c3b95d96105)
+
 
 
